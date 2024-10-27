@@ -13,6 +13,7 @@ import { MdKeyboardDoubleArrowRight } from "react-icons/md";
 import { FaTimes } from "react-icons/fa";
 import Whatsapp_Logo from './assets/img/whatsappLogo.png'
 import { sectionIds } from "./components/sectionIds";
+import Testimonial from "./components/Testimonial";
 
 
 
@@ -94,6 +95,7 @@ const App = () => {
        <About/>
        <Services/>
        <Projects/>
+       <Testimonial />
        <Contact/>
       <Footer id ="Home"/>
     </div>

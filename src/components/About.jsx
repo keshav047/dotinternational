@@ -15,7 +15,7 @@ const Page_3 = () => {
         </p>
         <Link className="px-8 py-3 rounded-full bg-black text-white text-lg">Go To Home Page</Link>
       </div>
-      <div className="page_3-right w-[40%] h-[50vh]  shadow-md shadow-[black]  overflow-hidden rounded-lg">
+      <div className="page_3-right w-[35%] h-[50vh]  shadow-md shadow-[black]  overflow-hidden rounded-lg">
         <img className="w-full h-full  hover:scale-[1.1]" src={Page_3_img} alt="" />
       </div>
     </div>
